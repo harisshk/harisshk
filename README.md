@@ -27,6 +27,7 @@
     <a href="https://git-scm.com/" rel="nofollow"> <img src="https://camo.githubusercontent.com/bc60041f5ea7b022c6419b73a15aaac12a2ede682867ec0d3e3c9ec374dce54b/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f34382f3030303030302f6769742e706e67" data-canonical-src="https://img.icons8.com/color/48/000000/git.png" style="max-width: 100%;"> </a> 
     <a href="https://redux.js.org" rel="nofollow"> <img src="https://camo.githubusercontent.com/d3d1874579d4c426185cc3f0b5819d05cad0e3cb0d62ce2b182daea2abab84b3/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f34382f3030303030302f72656475782e706e67" data-canonical-src="https://img.icons8.com/color/48/000000/redux.png" style="max-width: 100%;"> </a>
     <a href="https://expressjs.com" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40" style="max-width: 100%;"> </a>
+    <a href="https://www.python.org/" rel="nofollow"> <img src="https://github.com/alexmarginean16/alexmarginean16/blob/main/python.png" alt="express" width="40" height="40" style="max-width: 100%;"> </a>
 </p>
 <!---
 harisshk/harisshk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
