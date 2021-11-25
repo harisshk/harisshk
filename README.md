@@ -8,7 +8,7 @@
 
 <ul dir="auto">
 <li>
-<p dir="auto"><g-emoji class="g-emoji" alias="mailbox" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4eb.png">📫</g-emoji> How to reach me <strong><a href="mailto:hkumardevop@gmail.com">mittalsam98@gmail.com</a></strong></p>
+<p dir="auto"><g-emoji class="g-emoji" alias="mailbox" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4eb.png">📫</g-emoji> How to reach me <strong><a href="mailto:hkumardevop@gmail.com">hkumardevop@gmail.com</a></strong></p>
 </li>
 
 </ul>
