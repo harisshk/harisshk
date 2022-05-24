@@ -30,6 +30,9 @@
     <a href="https://www.python.org/" rel="nofollow"> <img src="https://github.com/alexmarginean16/alexmarginean16/blob/main/python.png" alt="express" width="40" height="40" style="max-width: 100%;"> </a>
      <a href="https://dotnet.microsoft.com/" rel="nofollow"> <img src="https://user-images.githubusercontent.com/48409160/143386535-e8a66eab-8050-43b9-9272-dcfebbdeb30c.png" alt="express" width="40" height="40" style="max-width: 100%;"> </a>
 </p>
+ <p align="center">
+   <img  src="https://github-readme-stats.vercel.app/api?username=Harikarthyk&theme=buefy&show_icons=true&count_private=true">
+ </p>
 <!---
 harisshk/harisshk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
